@@ -1,0 +1,32 @@
+{
+  "name": "f7-boilerplate",
+  "authors": [
+    "fernando monteiro <fernando@newaeonweb.com.br>"
+  ],
+  "description": "Simple start from scrath to use Framework 7 and Mobile First",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "mobile",
+    "first",
+    "cordova",
+    "mobile",
+    "framework7"
+  ],
+  "license": "MIT",
+  "homepage": "www.newaeonweb.com.br/f7boilerplate",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Framework7": "framework7#~1.4.0"
+  }
+}
