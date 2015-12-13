@@ -1,8 +1,5 @@
 ![alt text](http://newaeonweb.com.br/assets/images/f7mobileboilerplate.png "Logo Title Text 1")
 
----
-# F7 Boilerplate
-
 This is a simple boilerplate to quickly launch mobile application projects for IOS and Android using Framework7 and Apache Cordova.
 
 **What is included in this package:**
