@@ -9,10 +9,6 @@
     "gulp-sass": "2.1.1",
     "opn": "3.0.3"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "npm test"
-  },
   "keywords": [
     "mobile",
     "first",
