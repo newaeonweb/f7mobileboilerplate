@@ -1,5 +1,7 @@
 ![alt text](http://newaeonweb.com.br/assets/images/f7mobileboilerplate.png "Logo Title Text 1")
 
+[![Build Status](https://travis-ci.org/newaeonweb/f7mobileboilerplate.svg?branch=master)](https://travis-ci.org/newaeonweb/f7mobileboilerplate)
+
 This is a simple boilerplate to quickly launch mobile application projects for IOS and Android using Framework7 and Apache Cordova.
 
 **What is included in this package:**
