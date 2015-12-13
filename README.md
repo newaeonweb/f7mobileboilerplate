@@ -26,7 +26,7 @@ This is a simple boilerplate to quickly launch mobile application projects for I
 
     bower install
 
-### Add a mobile platform (Ios | Android)
+### Add a mobile platform (ios | android)
 
     cordova platform add ios
 
