@@ -1,30 +1,42 @@
+![alt text](http://newaeonweb.com.br/assets/images/f7mobileboilerplate.png "Logo Title Text 1")
+
+---
 # F7 Boilerplate
 
-This is a simple Mobile application build with Cordova and framework7
+This is a simple boilerplate to quickly launch mobile application projects for IOS and Android using Framework7 and Apache Cordova.
 
-## Clone
+**What is included in this package:**
+
+* [Gulp](http://gulpjs.com/) used to prepare the SASS files and start a web server with livereload.
+* [Bower](http://bower.io/) to manage libraries and dependencies.
+* Includes a small sample application using a [framework7](http://www.idangero.us/framework7/#.Vm15NmQrIfE) template.
+* [Cordova](https://cordova.apache.org/) scaffold.
+
+---
+
+### Clone
 
     git clone https://github.com/newaeonweb/f7mobileboilerplate.git
 
-## Install dependencies
+### Install dependencies
 
     npm install
 
-## Optional Bower Install
+### Optional Bower install
 
     bower install
 
-## Add a mobile Platform
+### Add a mobile platform (Ios | Android)
 
     cordova platform add ios
 
 > To use Android just add android instead ios
 
-## Prepare the application
+### Prepare the application
 
     cordova build
 
-## Run the application on emulator
+### Run the application on emulator/simulator
 
     cordova emulate
 
